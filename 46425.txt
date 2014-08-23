@@ -6114,7 +6114,7 @@ conducted by people having little or no scientific knowledge.
 The stillness of the Indian night suffers many interruptions.
 
 In the vicinity of a town or village the hours of darkness are rendered
-hideous by the noises of human beings and of their appendages--the
+hideous by the noises of human beings and of their appendages the
 pariah dogs. In the jungle the "friendly silences of the moon" are
 continually disturbed by the bark of the fox, the yelling of the jackal,
 or the notes of the numerous birds of the night.
@@ -6126,8 +6126,8 @@ birds all are familiar, but some do not know the names of the
 originators of these sounds.
 
 First and foremost of the fowls that lift up their voices after the
-shades of night have fallen are the tiny spotted owlets (_Athene
-brama_). Long before the sun has set these quaint little creatures
+shades of night have fallen are the tiny spotted owlets (Athene
+brama). Long before the sun has set these quaint little creatures
 emerge from the holes in which they have spent the day, and treat the
 neighbours to a "torrent of squeak and chatter and gibberish" which is
 like nothing else in the world, and which Tickell has attempted to
@@ -6136,8 +6136,8 @@ rapidly as the little owlets' breath will allow of. These noisy
 punchinellos are most vociferous during moonlit nights, but they are by
 no means silent in the dark portion of the month.
 
-Almost as abundant as the spotted owlet is another feathered pigmy--the
-jungle owlet (_Glaucidium radiatum_). This species, like the last, calls
+Almost as abundant as the spotted owlet is another feathered pigmy the
+jungle owlet (Glaucidium radiatum). This species, like the last, calls
 with splendid vigour. Fortunately for the Anglo-Indian its note is
 comparatively mellow and musical. It is not altogether unlike the noise
 made by a motor cycle when it is being started, consisting, as it does,
@@ -6145,19 +6145,19 @@ of a series of disyllables, low at first with a pause after each, but
 gradually growing in intensity and succeeding one another more rapidly
 until the bird seems to have fairly got away, when it pulls up with
 dramatic abruptness. The best attempt to reduce to writing the call of
-this bird is that of Tickell: "_Turtuck, turtuck, turtuck, turtuck,
-turtuck, turtuck, tukatu, chatuckatuckatuck._" This owlet calls in the
+this bird is that of Tickell: "Turtuck, turtuck, turtuck, turtuck,
+turtuck, turtuck, tukatu, chatuckatuckatuck" This owlet calls in the
 early part of the night and at intervals throughout the period of
 darkness, and becomes most vociferous just before the approach of
 "rosy-fingered dawn."
 
-Very different is the cry of the little scops owl (_Scops giu_). This
+Very different is the cry of the little scops owl (Scops giu). This
 bird has none of that Gladstonian flow of eloquence which characterises
 the spotted and the jungle owlets. His note is, however, more befitting
 the dignity of an owl. He speaks only in monosyllables, and gives vent
 to those with great deliberation. He sits on a bough and says "_wow_" in
 a soft but decisive manner. When this pronouncement has had time to sink
-into the ears of his listeners, he repeats "_wow_," and continues to
+into the ears of his listeners, he repeats "wow" and continues to
 sound this impressive monotone at intervals of a minute for several
 hours.
 
@@ -6168,12 +6168,12 @@ Park, address the world simultaneously from neighbouring trees.
 There are numbers of other owls that disturb the stillness of the night
 with more or less vigour, but it would be tedious, if not impossible, to
 describe them all. It must suffice to make mention of the low, solemn
-booming _durgoon durgoon_, of the huge rock-horned owl (_Bubo
-bengalensis_) and the wheezy screech of the barn owl (_Strix flammea_).
+booming durgoon durgoon of the huge rock-horned owl (Bubo
+bengalensis) and the wheezy screech of the barn owl (Strix flammea).
 
 Another call, often heard shortly before dawn, is doubtless usually
-believed to be that of an owl. This is the deep, _whoot, whoot, whoot_
-of the coucal or crow pheasant (_Centropus sinensis_), that curious
+believed to be that of an owl. This is the deep, whoot, whoot, whoot
+of the coucal or crow pheasant (Centropus sinensis), that curious
 chocolate-winged black ground-cuckoo which builds its nest in a dense
 thicket.
 
@@ -6187,14 +6187,14 @@ of the remaining two-and-twenty hours in shrieking at the top of their
 voices.
 
 Needless to state these three species are the brain-fever bird, the
-koel, and the Indian cuckoo--a triumvirate that it is impossible to
+koel, and the Indian cuckoo a triumvirate that it is impossible to
 match anywhere else in the world. Some there are who fail to distinguish
 between these three giants, and who believe that they are but one bird
 with an infinite variety of notes. This is not so. They are not one
 bird, but three birds. Let us take them in order of merit.
 
-The brain-fever bird or hawk cuckoo (_Hierococcyx varius_) is _facile
-princeps_. In appearance it is very like a sparrow-hawk, and, but for
+The brain-fever bird or hawk cuckoo (Hierococcyx varius) is facile
+princeps. In appearance it is very like a sparrow-hawk, and, but for
 its voice, it might be mistaken for one. This species has two distinct
 notes. The first of these is well described by Cunningham as a "highly
 pitched, trisyllabic cry, repeated many times in ascending semitones
@@ -6203,10 +6203,10 @@ repeating his ordinary formula of prayer, that the performer must surely
 burst." But the brain-fever bird never does burst. He seems to know to a
 scruple how much he may with safety take out of himself. It is not
 necessary to dilate upon this note. Have we not all listened to the
-continued screams of "brain-fever, _brain-fever_, Brain-fever," until we
+continued screams of "brain-fever, brain-fever, Brain-fever," until we
 began to fear for our reason? The other call is in no way inferior in
 magnitude. It consists of a volley of single descending notes, uttered
-with consummate ease--_facilis descensus_--which may or may not, at the
+with consummate ease facilis descensus which may or may not, at the
 option of the performer, be followed by one or more mighty shouts of
 Brain-fever. There is not an hour in the twenty-four during the hot
 weather when this fiend does not make himself heard in the parts of the
@@ -6214,18 +6214,18 @@ country haunted by him. His range extends from Naini Tal to Tuticorin
 and from Calcutta to Delhi. Assam, Sind, and the Punjab appear to be the
 only portions of India free from this cuckoo.
 
-The second of the great triumvirate is the Indian koel (_Eudynamis
-honorata_). This noble fowl has three calls, each as powerful as the
+The second of the great triumvirate is the Indian koel (Eudynamis
+honorata). This noble fowl has three calls, each as powerful as the
 others.
 
-The first is a crescendo _ku-il, ku-il, ku-il_, very pleasing to Indian
+The first is a crescendo ku-il, ku-il, ku-il, very pleasing to Indian
 ears, but too powerful for the taste of Westerns. The second is well
 described by Cunningham as an outrageous torrent of shouts, sounding
-"_kuk, kuun, kuun, kuun, kuun, kuun_," repeated at brief intervals in
+"kuk, kuun, kuun, kuun, kuun, kuun," repeated at brief intervals in
 tones loud enough to wake the seven sleepers. When the bird thus calls
 its whole body vibrates with the effort put forth. The third cry is
 uttered only when the koel is being chased by angry crows, and is, as
-Cunningham says, a mere cataract of shrill shrieks: "_Hekaree, karee_."
+Cunningham says, a mere cataract of shrill shrieks: "Hekaree, karee"
 
 For the benefit of those unacquainted with the ways of the koel it is
 necessary to state that that bird spends much of its time fleeing before
@@ -6238,7 +6238,7 @@ however, is usually reserved for the dawn. Hence this particular vocal
 effort is rendered all the more exasperating, coming as it does
 precisely at the time when, after the departure of a "sable-vested
 night" straight from Dante's Inferno, which has been embellished by the
-sluggishness of the _punkawalla_, a certain degree of coolness sets in
+sluggishness of the punkawalla, a certain degree of coolness sets in
 to give some chance of a little refreshing sleep. Then is it that the
 jaded dweller in the plains, uttering strange oaths, rushes for his gun
 and seeks out the disturber of his slumber. In case there be any unable
@@ -6249,8 +6249,8 @@ speckled black and white. This bird spares not even Sind or the Punjab.
 It visits every part of the plains of India, wintering in the south and
 summering in the north.
 
-The third of the triumvirate, the common Indian cuckoo (_Cuculus
-micropterus_), although in its way a very fine bird, is not of the same
+The third of the triumvirate, the common Indian cuckoo (Cuculus
+micropterus), although in its way a very fine bird, is not of the same
 calibre as its confreres. It stands to them in much the same relation as
 Trinity College, Dublin, does to the Universities of Oxford and
 Cambridge. It has quite a pleasant note, which Indians represent as
@@ -6262,26 +6262,26 @@ couple of hours. This cuckoo is very common in the Himalayas and in the
 plains of India from Fyzabad to Calcutta. Fyzabad ought really to be
 renamed Cuckooabad. It is the habitation of untold numbers of cuckoos.
 There during the merry month of May the cuckoos spend the night chanting
-anthems of which the refrain runs _kui-il, ku-il, ku-il, wherefore,
+anthems of which the refrain runs kui-il, ku-il, ku-il, wherefore,
 therefore, brain-fever, brain-fever, brain-fever_. The Indian cuckoo is
 very like the English cuckoo in appearance, and it victimises the seven
-sisters (_Crateropus canorus_) and other babblers, as does the
+sisters (Crateropus canorus) and other babblers, as does the
 brain-fever bird.
 
 The night-loving cuckoos have demanded so much space that the other
 vocalists of the hours of darkness will have to be content with very
 brief notice.
 
-The night heron (_Nycticoran griseus_) makes the welkin ring with his
-guttural cries of "_waak, waak_," uttered as he flies after nightfall
+The night heron (Nycticoran griseus) makes the welkin ring with his
+guttural cries of "waak, waak," uttered as he flies after nightfall
 from his roost to the pond where he will fish till morning. As he fishes
 in silence the addition he makes to the noises of the night is not
 great. The large family of plovers must be dismissed in a single
 sentence. They, like many cuckoos, regard sleep as a luxury; hence their
 plaintive cries are heard both by day and by night. The most familiar of
-their calls is the "_did-he-do-it, pity-to-do-it_," of the red-wattled
-lapwing (_Sarcogrammus indicus_). The notes of the rest of his family
-consist of variations of the words _titeri, titeri_.
+their calls is the "did-he-do-it, pity-to-do-it_," of the red-wattled
+lapwing (Sarcogrammus indicus). The notes of the rest of his family
+consist of variations of the words titeri, titeri.
 
 In conclusion, mention must be made of the nightjars or goatsuckers, as
 they are sometimes called after the fashion of the Romans, who believed
@@ -6296,12 +6296,12 @@ mottled and barred all over like cuckoos, for which they are often
 mistaken. Two are common in India. The first of these is _Caprimulgus
 asiaticus_, the common Indian nightjar, whose call is heard only after
 nightfall, and resembles the sound made by a stone skimming over ice.
-The other nightjar is that of Horsfield (_Caprimulgus macrurus_). Its
+The other nightjar is that of Horsfield (Caprimulgus macrurus). Its
 note has been compared to the noise made by striking a plank with a
 hammer. The distribution of nightjars is capricious. They are fairly
 common in the western districts of the United Provinces.
 
-Horsfield's nightjar is abundant in the _sal_ forests of the Pilibhit
+Horsfield's nightjar is abundant in the sal forests of the Pilibhit
 district.
 
 
